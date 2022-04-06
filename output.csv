@@ -1,0 +1,2 @@
+"Channel","Time before switch","Next Channel","Time after switch","Time Difference in seconds"
+"GET /LCID3221228195.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228195/ZDF_HD-video=7640800-984357710582.dash?hw_dash=1&servicetype=1 HTTP/1.1 ","Mon Dec 27 10:09:49 CET 2021","GET /LCID3221228142.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228142/RTL_HD-video=7640800.dash?hw_dash=1&servicetype=1 HTTP/1.1 ","Mon Dec 27 10:09:51 CET 2021","2"
