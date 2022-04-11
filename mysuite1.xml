@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="mysuite">
+	<test name="mytests">
+		<classes>
+			<class name="day23.testcases.TestCase1" />
+			<class name="day23.testcases.TestCase2" />
+		</classes>
+	</test>
+</suite>
